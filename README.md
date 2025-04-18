@@ -38,7 +38,7 @@
 
 | Project                                      | Tech Stack                          | Description & Impact                                                                 |
 |---------------------------------------------|-------------------------------------|-------------------------------------------------------------------------------------|
-| **🗣️ Feedback-to-Requirement Matcher**       | BERT-Large · Python · FastAPI       | Maps user feedback to product requirements with **F₂ 0.85 / Recall 0.95**, reducing PM triage time by **60%** through automated categorization. |
+| **🗣️ Feedback-to-Requirement Matcher**       | BERT-Large · Python                 | Maps user feedback to product requirements with **F₂ 0.85 / Recall 0.95**, reducing PM triage time by **60%** through automated categorization. |
 | **🔬 AI Health: Tissue-Fragment Reassembly** | Graph CNN · Point-Cloud Processing  | Reconstructs fragmented tumor slides post-surgery, improving diagnostic precision by **+18%** for pathologists. |
 | **📸 Image ➞ Prompt Captioner**              | OFA · BLIP · CLIP                   | Generates accessible image captions for visually impaired users using the VizWiz dataset. |
 | **💣 RL Bomberman Agent**                    | Deep Q-Network · OpenAI Gym         | Achieves **87% win rate** against heuristic bots using reward-shaping and curriculum learning techniques. |
@@ -53,6 +53,5 @@
 ## 🤝 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vasu-thakur-ml/](https://www.linkedin.com/in/vasu-thakur-05bb62170/))
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)]([https://scholar.google.com/citations?user=YOUR_ID_HERE](https://scholar.google.com/citations?hl=en&user=z13-pH0AAAAJ))
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:vasuthakurin16@gmail.com)
 
 > ✨ ““Engineering AI you can trust—one dataset, one model, one merge at a time.”” ✨
