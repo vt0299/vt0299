@@ -36,19 +36,13 @@
 
 ## 🚀 Featured Projects
 
-- **🗣️ Feedback‑to‑Requirement Matcher**  
-  *BERT‑Large · Python · FastAPI* – Maps user feedback to product requirements with **F₂ 0.85 / Recall 0.95**, cutting triage time **60 %** for Product Managers.
+| Project                                      | Tech Stack                          | Description & Impact                                                                 |
+|---------------------------------------------|-------------------------------------|-------------------------------------------------------------------------------------|
+| **🗣️ Feedback-to-Requirement Matcher**       | BERT-Large · Python · FastAPI       | Maps user feedback to product requirements with **F₂ 0.85 / Recall 0.95**, reducing PM triage time by **60%** through automated categorization. |
+| **🔬 AI Health: Tissue-Fragment Reassembly** | Graph CNN · Point-Cloud Processing  | Reconstructs fragmented tumor slides post-surgery, improving diagnostic precision by **+18%** for pathologists. |
+| **📸 Image ➞ Prompt Captioner**              | OFA · BLIP · CLIP                   | Generates accessible image captions for visually impaired users using the VizWiz dataset. |
+| **💣 RL Bomberman Agent**                    | Deep Q-Network · OpenAI Gym         | Achieves **87% win rate** against heuristic bots using reward-shaping and curriculum learning techniques. |
 
-- **🔬 AI Health: Tissue‑Fragment Reassembly**  
-  *Graph CNN · Point‑Cloud Processing* – Reconstructs fragmented tumor slides post‑surgery, boosting diagnostic precision by **+18 %**.
-
-- **📸 Image ➞ Prompt Captioner**  
-  *OFA · BLIP · CLIP* – Generates accessible captions for blind photography; uses the VizWiz dataset.
-
-- **💣 RL Bomberman Agent**  
-  *Deep Q‑Network · OpenAI Gym* – Achieves **87 % win rate** against heuristic bots; demonstrates reward‑shaping and curriculum learning.
-
-> ✨  Every repo is reproducible (Docker), documented (mkdocs), and carries an open‑source license.
 
 
 ## 📝 Latest Publications
