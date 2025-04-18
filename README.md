@@ -14,11 +14,11 @@
 ---
 
 ## 🔍 About Me
-- 🎓 **M.Sc. Data & Computer Science** (Grade 2.1) – Universität Heidelberg  
+- 🎓 **M.Sc. Data & Computer Science** – Universität Heidelberg  
 - 🛠️ Building **production‑ready ML** pipelines in Python, PyTorch, TensorFlow, Spark  
 - 🧠 Research & projects in **NLP**, **CV**, **RAG**, **RL**, **LLMs**  
 - 📄 **5 peer‑reviewed papers** on vision transformers, real‑time recognition (IEEE, Springer, De Gruyter)  
-- 🌱 Currently improving a **BERT‑Large feedback‑to‑requirement matcher** (F₂ 0.85, Recall 0.95)  
+- 🌱 Recently Improved a **BERT‑Large feedback‑to‑requirement matcher** (F₂ 0.85, Recall 0.95)  
 - ⚡ Fun fact: My DQN Bomberman agent wins 87 % of games—and still loves blowing itself up occasionally.
 
 ## 🧰 Tech Stack
@@ -33,11 +33,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-0A0?logo=githubactions&logoColor=white)
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vasuthakur&show_icons=true&hide_border=true" alt="Vasu's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasuthakur&layout=compact&hide_border=true" alt="Top languages" />
-</p>
 
 ## 📌 Featured Projects
 | Project | Stack | Impact |
@@ -58,4 +53,4 @@
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_ID_HERE)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:vasuthakurin16@gmail.com)
 
-> ✨ “Building trustworthy AI—one dataset, one model, one pull request at a time.” ✨
+> ✨ ““Engineering AI you can trust—one dataset, one model, one merge at a time.”” ✨
