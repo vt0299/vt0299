@@ -37,16 +37,13 @@
 ## 🚀 Featured Projects
 
 - **🗣️ Feedback‑to‑Requirement Matcher**  
-  *BERT‑Large · Python · FastAPI* – Maps user feedback to product requirements with **F₂ 0.85 / Recall 0.95**, cutting triage time **60 %** for PMs.
+  *BERT‑Large · Python · FastAPI* – Maps user feedback to product requirements with **F₂ 0.85 / Recall 0.95**, cutting triage time **60 %** for Product Managers.
 
 - **🔬 AI Health: Tissue‑Fragment Reassembly**  
   *Graph CNN · Point‑Cloud Processing* – Reconstructs fragmented tumor slides post‑surgery, boosting diagnostic precision by **+18 %**.
 
 - **📸 Image ➞ Prompt Captioner**  
-  *OFA · BLIP · CLIP* – Generates accessible captions for blind photography; scores **BLEU‑4 34** on the VizWiz dataset.
-
-- **🥗 Food‑Safety AI for FSSAI**  
-  *LSTM · CNN · Prophet · AWS SageMaker* – Predicts contamination risks (time‑series + images) at **92 % F1** and forecasts food‑borne illness trends 12 months ahead.
+  *OFA · BLIP · CLIP* – Generates accessible captions for blind photography; uses the VizWiz dataset.
 
 - **💣 RL Bomberman Agent**  
   *Deep Q‑Network · OpenAI Gym* – Achieves **87 % win rate** against heuristic bots; demonstrates reward‑shaping and curriculum learning.
