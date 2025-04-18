@@ -51,7 +51,7 @@
 - Vision Transformer papers on Seborrheic Keratosis, Melanoma, Yellow Nail Syndrome (2022–23)
 
 ## 🤝 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vasu-thakur-ml/](https://www.linkedin.com/in/vasu-thakur-05bb62170/))
-[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)]([https://scholar.google.com/citations?user=YOUR_ID_HERE](https://scholar.google.com/citations?hl=en&user=z13-pH0AAAAJ))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasu-thakur-05bb62170/)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=z13-pH0AAAAJ))
 
 > ✨ ““Engineering AI you can trust—one dataset, one model, one merge at a time.”” ✨
