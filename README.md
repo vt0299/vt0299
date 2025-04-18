@@ -36,13 +36,13 @@
 
 ## 🚀 Featured Projects
 
-| Project                                      | Tech Stack                          | Description & Impact                                                                 |
-|---------------------------------------------|-------------------------------------|-------------------------------------------------------------------------------------|
-| **🗣️ Feedback-to-Requirement Matcher**       | BERT-Large · Python                 | Maps user feedback to product requirements with **F₂ 0.85 / Recall 0.95**, reducing PM triage time by **60%** through automated categorization. |
-| **🔬 AI Health: Tissue-Fragment Reassembly** | Graph CNN · Point-Cloud Processing  | Reconstructs fragmented tumor slides post-surgery, improving diagnostic precision by **+18%** for pathologists. |
-| **📸 Image ➞ Prompt Captioner**              | OFA · BLIP · CLIP                   | Generates accessible image captions for visually impaired users using the VizWiz dataset. |
-| **💣 RL Bomberman Agent**                    | Deep Q-Network · OpenAI Gym         | Achieves **87% win rate** against heuristic bots using reward-shaping and curriculum learning techniques. |
-
+| Project                                      | Tech Stack                              | Description & Impact                                                                                     |
+|---------------------------------------------|-----------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| **🗣️ Feedback-to-Requirement Matcher**       | BERT‑Large · Python                     | Maps user feedback to product requirements with **F₂ 0.85 / Recall 0.95**, reducing PM triage time by **60%** through automated categorization. |
+| **🔬 AI Health: Tissue-Fragment Reassembly** | Graph CNN · Point‑Cloud Processing      | Reconstructs fragmented tumor slides post-surgery, improving diagnostic precision by **+18%** for pathologists. |
+| **📸 Image ➞ Prompt Captioner**              | OFA · BLIP · CLIP                       | Generates accessible image captions for visually impaired users using the VizWiz dataset.                  |
+| **💣 RL Bomberman Agent**                   | Deep Q‑Network · OpenAI Gym             | Achieves **87% win rate** against heuristic bots using reward-shaping and curriculum learning techniques.   |
+| **📚 BioMedical QA RAG System**             | GPT‑3.5 Turbo · RAG · Vector Store Retrieval | Leverages retrieval-augmented generation on PubMed abstracts to power a QA system, improving accuracy through context concatenation and semantic filtering. |
 
 
 ## 📝 Latest Publications
