@@ -34,14 +34,25 @@
 ![CI/CD](https://img.shields.io/badge/-CI/CD-0A0?logo=githubactions&logoColor=white)
 
 
-## 📌 Featured Projects
-| Project | Stack | Impact |
-|---------|-------|--------|
-| **Feedback ↔︎ Requirement Matching** | BERT‑Large, Python | Cut manual triage 60 % (F₂ 0.85) |
-| **AI Health: Tissue Fragment Puzzle** | Graph CNN, point‑cloud | +18 % tumor‑diagnostic accuracy |
-| **Image → Prompt Captioning** | OFA, BLIP, CLIP | BLEU‑4 34 on VizWiz |
-| **FSSAI Food Safety AI** | LSTM, CNN, Prophet, AWS | 92 % F1 contamination detection |
-| **RL Bomberman Agent** | DQN, OpenAI Gym | 87 % win‑rate |
+## 🚀 Featured Projects
+
+- **🗣️ Feedback‑to‑Requirement Matcher**  
+  *BERT‑Large · Python · FastAPI* – Maps user feedback to product requirements with **F₂ 0.85 / Recall 0.95**, cutting triage time **60 %** for PMs.
+
+- **🔬 AI Health: Tissue‑Fragment Reassembly**  
+  *Graph CNN · Point‑Cloud Processing* – Reconstructs fragmented tumor slides post‑surgery, boosting diagnostic precision by **+18 %**.
+
+- **📸 Image ➞ Prompt Captioner**  
+  *OFA · BLIP · CLIP* – Generates accessible captions for blind photography; scores **BLEU‑4 34** on the VizWiz dataset.
+
+- **🥗 Food‑Safety AI for FSSAI**  
+  *LSTM · CNN · Prophet · AWS SageMaker* – Predicts contamination risks (time‑series + images) at **92 % F1** and forecasts food‑borne illness trends 12 months ahead.
+
+- **💣 RL Bomberman Agent**  
+  *Deep Q‑Network · OpenAI Gym* – Achieves **87 % win rate** against heuristic bots; demonstrates reward‑shaping and curriculum learning.
+
+> ✨  Every repo is reproducible (Docker), documented (mkdocs), and carries an open‑source license.
+
 
 ## 📝 Latest Publications
 - **Real‑Time Fruit Recognition & Calorie Estimation** (IEEE, 2023)  
