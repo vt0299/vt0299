@@ -7,8 +7,8 @@
 <h1 align="center">Hi, I’m Vasu Thakur <img src="https://raw.githubusercontent.com/vasuthakur/vasuthakur/main/assets/wave.gif" width="30"/> </h1>
 
 <p align="center">
-  <b>Machine‑Learning Engineer · M.Sc. Data &amp; Computer Science @ Universität Heidelberg</b><br/>
-  NLP · Computer Vision · Generative AI · Reinforcement Learning · Cloud &amp; MLOps
+  <b>M.Sc. Data &amp; Computer Science @ Universität Heidelberg</b><br/>
+  NLP · Computer Vision · Generative AI · Reinforcement Learning · Machine Learning · Cloud &amp; MLOps
 </p>
 
 ---
