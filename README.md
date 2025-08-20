@@ -36,13 +36,20 @@
 
 ## 🚀 Featured Projects
 
-| Project                                      | Tech Stack                              | Description & Impact                                                                                     |
-|---------------------------------------------|-----------------------------------------|-----------------------------------------------------------------------------------------------------------|
-| **🗣️ Feedback-to-Requirement Matcher**       | BERT‑Large · Python                     | Maps user feedback to product requirements with **F₂ 0.85 / Recall 0.95**, reducing PM triage time by **60%** through automated categorization. |
-| **🔬 AI Health: Tissue-Fragment Reassembly** | Graph CNN · Point‑Cloud Processing      | Reconstructs fragmented tumor slides post-surgery, improving diagnostic precision by **+18%** for pathologists. |
-| **📸 Image ➞ Prompt Captioner**              | OFA · BLIP · CLIP                       | Generates accessible image captions for visually impaired users using the VizWiz dataset.                  |
-| **💣 RL Bomberman Agent**                   | Deep Q‑Network · OpenAI Gym             | Achieves **87% win rate** against heuristic bots using reward-shaping and curriculum learning techniques.   |
-| **📚 BioMedical QA RAG System**             | GPT‑3.5 Turbo · RAG · Vector Store Retrieval | Leverages retrieval-augmented generation on PubMed abstracts to power a QA system, improving accuracy through context concatenation and semantic filtering. |
+| Project | Tech Stack | What it does |
+|---|---|---|
+| 📰 **[AI News Agentic (LangGraph)](https://github.com/vt0299/AI-News-Agentic---LangGraph-Stateful-AI-Application)** | LangGraph, Streamlit, Groq, Tavily | Stateful agent with three modes: AI news summarizer (daily/weekly/monthly), basic chatbot, and web-enhanced chatbot with markdown exports. |
+| 🔎 **[Agentic Chatbot + Web Search](https://github.com/vt0299/LangGraph-Agentic-AI-Chatbot-with-Web-Search)** | LangGraph, Streamlit, Groq, Tavily | Dual-mode chatbot that switches between pure LLM chat and tool-augmented web search. |
+| 💬 **[Agentic Chatbot (Core)](https://github.com/vt0299/LangGraph-Agentic-AI-Chatbot)** | LangGraph, Streamlit, Groq | Minimal, stateful LangGraph chatbot showcasing clean graph design and UI. |
+| 🧾 **[Human-in-the-loop Ticket Triage](https://github.com/vt0299/Human-in-the-loop-Ticket-Triage-)** | FastAPI, LangGraph, Docker | Triage emails/Slack, classify priority, generate INVEST stories + Gherkin, approve in browser, and create GitHub issues (or dry-run JSON). |
+| 💬📊 **[Customer Feedback Insights System](https://github.com/vt0299/Customer-Feedback-Insights-System)** | RAG, HDBSCAN/KMeans, Streamlit, TruLens | End-to-end pipeline: ingest → embed → cluster → label → RAG “why” answers → interactive dashboard; supports OpenAI/Gemini/OpenRouter. |
+| 📚 **[RAG Microservice Starter + Visual Backlog](https://github.com/vt0299/RAG-Microservice-Starter-Visual-Backlog-Dashboard)** | Qdrant, BM25, Streamlit, Docker, Prometheus | Production-style RAG stack with hybrid search, citations, backlog.yaml dashboard, and metrics endpoints. |
+| 🗺️ **[Backlog & Prioritization Sandbox](https://github.com/vt0299/Backlog-Prioritization-Sandbox)** | FastAPI, Streamlit, Python | RICE-rank epics/stories from YAML, show progress & impact charts, and auto-generate roadmap timelines. |
+| 📰 **[RAG-based Article Generator](https://github.com/vt0299/RAG-based-Article-Generator)** | Gemini, Chroma, LangChain, Streamlit | Generates newspaper-style articles using RAG over Wikipedia or user-uploaded files. |
+| 💻 **[Ollama Gemma Chat App](https://github.com/vt0299/Simple-Generative-AI-app-with-Ollama-using-Gemma)** | Streamlit, LangChain, Ollama (Gemma) | Local, no-API-cost chat app with LangSmith tracking. |
+| 👁️ **[Image → Prompts (VizWiz)](https://github.com/vt0299/Image-to-prompts)** | OFA, BLIP, GIT, CLIP | Full pipeline to generate & evaluate captions on VizWiz with BLEU/METEOR/ROUGE and CLIP similarity. |
+| 🧪 **[Biomedical RAG: Cellio](https://github.com/vt0299/Biomedical-RAG-system)** | PubMed, RAG, Python | Query-transformed context retrieval for biomedical QA; course project with docs. |
+| 💣 **[Bomberman RL Agent](https://github.com/vt0299/Bomberman-Reinforcement-learning)** | PyTorch, RL | Reinforcement learning agent and training scaffolding for classic Bomberman. |
 
 
 ## 📝 Latest Publications
