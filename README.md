@@ -20,7 +20,6 @@ NLP · Computer Vision · Generative AI · LangGraph/Agentic Systems · RAG · M
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
-  <img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-FF4D4D?logo=qdrant&logoColor=white">
 </p>
 
 ---
