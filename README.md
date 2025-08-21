@@ -52,8 +52,6 @@ Python · PyTorch · TensorFlow · LangGraph · LangChain · FastAPI · Streamli
 | 💣 **[Bomberman RL Agent](https://github.com/vt0299/Bomberman-Reinforcement-learning)** | PyTorch · RL | Classic Bomberman training scaffolding + agent. |
 | 💻 **[Ollama Gemma Chat App](https://github.com/vt0299/Simple-Generative-AI-app-with-Ollama-using-Gemma)** | Streamlit · LangChain · Ollama | Local no-API-cost chat with LangSmith tracking. |
 
-> Also exploring: **[User Stories Assistant](https://github.com/vt0299/User-Stories-Assistant)** (FastAPI + React; auto-generates INVEST stories & Gherkin).
-
 ---
 
 ## 📝 Publications (selected)
