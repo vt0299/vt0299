@@ -34,7 +34,7 @@ NLP · Computer Vision · Generative AI · LangGraph/Agentic Systems · RAG · M
 - ⚡ Fun fact: My DQN Bomberman agent wins a lot…and still occasionally blows itself up 🙃
 
 ## 🧰 Tech Stack
-Python · PyTorch · TensorFlow · LangGraph · LangChain · FastAPI · Streamlit · RAG (FAISS/Chroma/Qdrant + BM25) · Groq · OpenAI · Tavily · Hugging Face · SQL · Spark · Docker · GitHub Actions · Prometheus
+Python · PyTorch · TensorFlow · LangGraph · LangChain · FastAPI · Streamlit · RAG (FAISS/Chroma) · Groq · OpenAI · Tavily · Hugging Face · SQL · Spark · Docker · GitHub Actions
 
 ---
 
