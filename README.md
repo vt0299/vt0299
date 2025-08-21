@@ -30,7 +30,7 @@ NLP · Computer Vision · Generative AI · LangGraph/Agentic Systems · RAG · M
 - 🧠 I build agentic AI systems (LangGraph), RAG stacks, and evaluation-first ML features  
 - 🛠️ Production mindset: FastAPI, Streamlit, Docker, CI/CD, metrics & tracing  
 - 📄 5 peer-reviewed papers on vision transformers & real-time recognition (IEEE, Springer, De Gruyter)  
-- ✍️ Recent focus: agentic news summarization, ticket triage, backlog intelligence, and user-story generation  
+- ✍️ Recent focus: agentic news summarization, web search and Agentic AI with blog generation   
 - ⚡ Fun fact: My DQN Bomberman agent wins a lot…and still occasionally blows itself up 🙃
 
 ## 🧰 Tech Stack
